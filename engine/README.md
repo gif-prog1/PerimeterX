@@ -9,7 +9,10 @@ This Go project allows you to manage Windows firewall rules for specific applica
 - Administrator privileges are required to modify firewall rules.
 
 ## Project Structure
-engine/ ├── main.go # Handles firewall modification └── run.go # Defines application paths and inputs
+```
+engine/ ├── main.go # Handles firewall modification 
+        └── run.go # Defines application paths and inputs
+```
 
 
 ## Running the Program
